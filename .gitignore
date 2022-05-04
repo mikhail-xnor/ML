@@ -1,0 +1,13 @@
+./TMOenv
+*.png
+*.aux
+*.tex
+*.dot
+*.gz
+*.html
+*.swp
+*.fdb_latexmk
+*.fls
+*.out
+*.log
+.ipynb_checkpoints/
